@@ -15,7 +15,7 @@ PetStorePerformanceTest/
 │   │   └── store_test.py      # Store order performance tests
 │   └── user/
 │       └── user_test.py       # User API performance tests
-└── Main.py                    # CLI-based launcher to select which test to run
+├── Main.py                    # CLI-based launcher to select which test to run
 ```
 
 ---
