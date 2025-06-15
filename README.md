@@ -42,7 +42,7 @@ PetStorePerformanceTest/
 
 ---
 
-## ✅ Test Coverage
+## Test Coverage
 
 | Class | Methods Tested           |
 |-------|--------------------------|
